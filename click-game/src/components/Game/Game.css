@@ -1,0 +1,12 @@
+.container {
+    background-color: red;
+}
+
+.jumbotron {
+    background-color: white;
+    background-image: url("/public/assets/images/Jungle.jpg");
+}
+
+.row {
+    background-image: url("/public/assets/images/Jungle.jpg");
+}

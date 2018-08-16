@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import cards from "../../cards.json";
 import Card from "../Card";
+import "./Game.css";
 
 class Game extends Component {
 
@@ -35,6 +36,8 @@ class Game extends Component {
         return (
             <div className="container">
                 <div className="jumbotron">
+                <h1>Dinosaur Click Game!</h1>
+                <h2>If you click on the same dinosaur twice it will eat you.</h2>
                     <p>Current score: {this.state.score}</p>
                     <p>High score: {this.state.highScore}</p>
                     <p>Losses: {this.state.losses}</p>
