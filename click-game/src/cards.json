@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/Irritator_0afd.jpg",
+        "name": "Irritator"
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/medusaceratops.jpg",
+        "name": "Medusaceratops"
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/acrotholus.jpg",
+        "name": "Acrotholus"
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/carnotaurus.jpg",
+        "name": "Carnotaurus"
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/omeisaurus.jpg",
+        "name": "Omeisaurus"
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/amurosaurus.jpg",
+        "name": "Amurosaurus"
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/tyrannosaurus.jpg",
+        "name": "Tyrannosaurus"
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/Scipionyx.jpg",
+        "name": "Scipionyx"
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/Daspletosaurus.jpg",
+        "name": "Daspletosaurus"
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/Palaeoscincus.jpg",
+        "name": "Palaeoscincus"
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/Corythosaurus.jpg",
+        "name": "Corythosaurus"
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/pentaceratops.jpg",
+        "name": "Pentaceratops"
+    }
+]
